@@ -1,0 +1,6 @@
+[submodule "ITI-DevOps-FinalProject-Application"]
+	path = ITI-DevOps-FinalProject-Application
+	url = https://github.com/hadilotfy/ITI-DevOps-FinalProject-App
+[submodule "ITI-DevOps-FinalProject-Infrastructure"]
+	path = ITI-DevOps-FinalProject-Infrastructure
+	url = https://github.com/hadilotfy/ITI-DevOps-FinalProject-Infra
