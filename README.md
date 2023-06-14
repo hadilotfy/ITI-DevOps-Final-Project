@@ -2,11 +2,11 @@
 
 # Deploying WebApp on EKS  -  by Hadi Lotfy
 
-* Containerization               : Docker / DockerHub
+* Containerization          : Docker / DockerHub
 * Container Orchestration   : Kubernetes (AWS EKS Service)
-* CI/CD                                : Jenkins (as a deployment on the same EKS cluster)
-* Version Control                 : Git / GitHub
-* Infrastructure                    : Terraform
+* CI/CD                     : Jenkins (as a deployment on the same EKS cluster)
+* Version Control           : Git / GitHub
+* Infrastructure            : Terraform
 
 
 Repo. Structure:
